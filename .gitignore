@@ -1,0 +1,13 @@
+# Environment Configuration
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
